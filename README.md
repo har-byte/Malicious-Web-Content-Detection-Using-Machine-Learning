@@ -1,4 +1,5 @@
-# Malicious Web Content Detection using Machine Learning
+# Malicious Web Content Detection using Machine Learning.
+# This is an amazing projects.
 
 #### NOTE - 
 #### 1. If you face any issue, first refer to [Troubleshooting.md](docs/Troubleshooting.md). If you are still not able to resolve it, please file an issue with the appropriate template (Bug report, question, custom issue or feature request).
@@ -24,7 +25,7 @@ Make sure your pip is consistent with the Python version you are using by typing
 
 ### Take a look at the [demo](https://youtu.be/0-wky0h3hmM)
 
-A few snapshots of our system being run on different webpages -
+A few snapshots of our system being run on different webpages. -
 
 ![spit_safe](https://user-images.githubusercontent.com/18022447/35985360-7cd910f2-0cc4-11e8-9edf-d38bf83d19a1.png)
 _**Fig 1.** A safe website - www.spit.ac.in (College website)_
